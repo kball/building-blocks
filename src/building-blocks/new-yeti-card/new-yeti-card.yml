@@ -1,0 +1,12 @@
+name: "New Yeti Card"
+tags:
+  - card
+  - content
+category: containers
+description: A Card For Yetis
+versions:
+  - 6.3.0
+  - 6.3.1
+author:
+  name: ZURB DEMO
+containerClass: container-padded row column medium-8
